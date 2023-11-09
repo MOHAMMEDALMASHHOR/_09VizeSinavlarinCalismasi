@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BA5g4oPWCReRez+dMmkFFnIqNPywXJrcD9LrHbrBzGs=",
+  "Source": "TelegramApp",
+  "BasePath": "_content/TelegramApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
